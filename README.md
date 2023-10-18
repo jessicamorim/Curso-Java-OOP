@@ -3,12 +3,10 @@
 
 Curso Básico de Java com Orientação a Objetos
 
+Repositório com objetivo de apresentar aplicações realizadas no curso.
 
 
 
-Infomrações Básicas:
-
-Java é uma linguagem compilada e intepretada
 
 
 

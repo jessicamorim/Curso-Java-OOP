@@ -1,10 +1,24 @@
 package com.loiane.cursojava.aula17;
 
+import java.util.Scanner;
+
 public class ValorH2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		Scanner scan = new Scanner(System.in);
+		
+		System.out.println("Valor: ");
+		int valor = scan.nextInt();
+		
+		double soma = 0;
+		
+			for(int i=1; i<=valor; i++) {
+				
+				soma += 1 /i;
+			}
+			
+			System.out.println("Soma + " + soma);
 
 	}
-
 }
